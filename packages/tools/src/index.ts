@@ -32,6 +32,7 @@ import {
   VolumeRotateMouseWheelTool,
   MIPJumpToClickTool,
   LengthTool,
+  AiLineTool,
   ProbeTool,
   RectangleROITool,
   EllipticalROITool,
@@ -74,6 +75,7 @@ export {
   MIPJumpToClickTool,
   // Annotation Tools
   LengthTool,
+  AiLineTool,
   CrosshairsTool,
   ProbeTool,
   RectangleROITool,

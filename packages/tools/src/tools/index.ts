@@ -19,6 +19,7 @@ import EllipticalROITool from './annotation/EllipticalROITool';
 import PlanarFreehandROITool from './annotation/PlanarFreehandROITool';
 import ArrowAnnotateTool from './annotation/ArrowAnnotateTool';
 import AngleTool from './annotation/AngleTool';
+import AiLineTool from './annotation/AiLineTool';
 
 // Segmentation DisplayTool
 import SegmentationDisplayTool from './displayTools/SegmentationDisplayTool';
@@ -49,6 +50,7 @@ export {
   CrosshairsTool,
   BidirectionalTool,
   LengthTool,
+  AiLineTool,
   ProbeTool,
   RectangleROITool,
   EllipticalROITool,
